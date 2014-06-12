@@ -13,5 +13,8 @@
     "test",
     "tests"
   ],
-  "homepage": "https://github.com/hanachin/jejeje"
+  "homepage": "https://github.com/hanachin/jejeje",
+  "dependencies": {
+    "vue": "~0.10.5"
+  }
 }
