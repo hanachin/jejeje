@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hanachin/jejeje/issues"
   },
-  "homepage": "https://github.com/hanachin/jejeje"
+  "homepage": "https://github.com/hanachin/jejeje",
+  "devDependencies": {
+    "bower": "^1.3.5"
+  }
 }
